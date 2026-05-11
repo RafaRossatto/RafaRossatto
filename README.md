@@ -2,6 +2,12 @@
 
 We can talk in Portuguese, English and Spanish.
 
+
+### Tools & Technologies I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 <!--
 **RafaRossatto/RafaRossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
