@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Rafael Rossatto
-We can talk in Portuguese, English and Spanish.
 
 ### **Researcher | PhD(c)**
 ---
@@ -11,10 +10,6 @@ I'm a **PhD candidate** at the **Universidade Federal de Pelotas (UFPel)**, wher
 Alongside academia, I'm diving deep into the world of **Data Science**. This GitHub is my personal lab for exploring real-world data, automating tasks, and building projects that bridge science and practical analytics.
 
 🌎 **Languages:** Portuguese (native), English, Spanish.
-
-📄 **Recent publication:** [Click here to see my research paper](https://www.sciencedirect.com/science/article/pii/S0378437126002608)
-
----
 
 ### 🛠️ Tools & Technologies I Work With
 
