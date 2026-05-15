@@ -2,6 +2,10 @@
 
 We can talk in Portuguese, English and Spanish.
 
+I am Rafael, today I am a phd Candidate in the Universidade Federal de Pelotas (UFpel). Where i developed a research in biophysic, in special work with agent-based Model. Where i already have a publication on the following link: 
+
+I am also intressed in work with data. For this reason I use this to show something that I've devoloped in the free time that i have in my Phd.
+
 
 ### Tools & Technologies I work with
 
