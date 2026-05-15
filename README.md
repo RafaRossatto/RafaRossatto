@@ -33,7 +33,6 @@ Here are some of my data experiments:
 | [**Olist Project**](https://github.com/RafaRossatto/olist_project) | Exploratory data analysis and insights from the Brazilian Olist marketplace. | `Jupyter` `Pandas` |
 | [**PDF Text Cleaner**](https://github.com/RafaRossatto/PDF_Text_Cleaner) | Tool for cleaning and preprocessing text extracted from academic PDFs. | `Python` `Regex` |
 | [**PDF Summarizer Agent**](https://github.com/RafaRossatto/pdf-summarizer-agent) | Simple agent to summarize PDF papers using NLP approaches. | `Python` `LLM` |
-| [**Election Work**](https://github.com/RafaRossatto/election_work) | Analysis of electoral data to understand voting patterns. | `Python` `Pandas` |
-| [**Papers DB**](https://github.com/RafaRossatto/papers_db) | Structuring a personal database to manage scientific papers. | `Python` `SQL` |
+| [**Papers DB**](https://github.com/RafaRossatto/papers_db) | Structuring a personal database to manage scientific papers. | `Python` `SQL` `Postgresql` |
 
 ---
