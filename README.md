@@ -2,7 +2,6 @@
 We can talk in Portuguese, English and Spanish.
 
 ### **Researcher | PhD(c)**
-We can talk in Portuguese, English and Spanish.
 ---
 
 ### 🧬 About Me
