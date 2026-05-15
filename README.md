@@ -5,9 +5,9 @@
 
 ### 🧬 About Me
 
-I'm a **PhD candidate** at the **Universidade Federal de Pelotas (UFPel)**, where my research combines **computational biophysics** and **agent-based modeling** to simulate complex biological systems.
+I'm a PhD candidate at the Universidade Federal de Pelotas (UFPel), where my research combines computational biophysics and agent-based modeling to simulate complex biological systems.
 
-Alongside academia, I'm diving deep into the world of **Data Science**. This GitHub is my personal lab for exploring real-world data, automating tasks, and building projects that bridge science and practical analytics.
+Alongside academia, I'm diving deep into the world of Data Science. This GitHub is my personal lab for exploring real-world data, automating tasks, and building projects that bridge science and practical analytics.
 
 🌎 **Languages:** Portuguese (native), English, Spanish.
 
