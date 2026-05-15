@@ -13,7 +13,7 @@ Alongside academia, I'm diving deep into the world of **Data Science**. This Git
 
 🌎 **Languages:** Portuguese (native), English, Spanish.
 
-📄 **Recent publication:** [Click here to see my research paper](#) *(add your actual link)*
+📄 **Recent publication:** [Click here to see my research paper](https://www.sciencedirect.com/science/article/pii/S0378437126002608)
 
 ---
 
